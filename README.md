@@ -1,4 +1,4 @@
-# Job Application Reflection Agent
+# Reflection Agent
 
 An AI system that uses a **generator-critic reflection loop** to iteratively refine job application content — recruiter outreach emails and interview preparation — until it meets a high quality standard.
 
